@@ -60,7 +60,7 @@ gitalk_clientID: '68b89d7f3dd2daecc526'
 gitalk_clientSecret: '230eb09e78597caca39007f997ef2eb841e92f6c'
 gitalk_repo: Blog
 gitalk_owner: henton1
-gitalk_admin: ["'henton1'"]
+gitalk_admin: henton1
 gitalk_freeMode: false
 gitalk_proxy: ''
 
