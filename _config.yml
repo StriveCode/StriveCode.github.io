@@ -1,11 +1,11 @@
 # Site settings
-title: Henton
-SEOTitle: Henton
+title: careFree
+SEOTitle: careFree
 header-img: img/home-bg.jpg
-email: wangjiahengysu@gmail.com
-description: "a young man"
-keyword: "Henton, Henton Blog"
-url: "https://www.henton.top"              # your host, for absolute URL
+email: 2541531165@qq.com
+description: "a noob"
+keyword: "sunjiabao"
+url: "https://www.sunjiabao.cn"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    henton
+github_username:    StriveCode
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
@@ -54,24 +54,12 @@ kramdown:
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
-# gitalk settings
-gitalk_username: henton1
-gitalk_clientID: '68b89d7f3dd2daecc526'
-gitalk_clientSecret: '230eb09e78597caca39007f997ef2eb841e92f6c'
-gitalk_repo: Blog
-gitalk_owner: henton1
-gitalk_admin: henton1
-gitalk_freeMode: false
-gitalk_proxy: ''
-
-
-
 # Analytics settings
 # Baidu Analytics
 ba_track_id: dd6046d995ae9d6b1da4bed2820ba8c5
 # Google Analytics
 ga_track_id: 'UA-136777298-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.henton.top
+ga_domain: www.sunjiabao.cn
 
 
 

@@ -1,9 +1,9 @@
 {
-    "name": "Henton",
-    "title": "Henton Blog",
+    "name": "careFree",
+    "title": "CareFree Blog",
     "version": "1.0.0",
-    "homepage": "http://henton.top",
-    "author": "Henton",
+    "homepage": "http://sunjiabao.cn",
+    "author": "careFree",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Henton/Henton.github.io.git"
+        "url": "https://github.com/StriveCode/StriveCode.github.io"
     },
     "scripts": {
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
